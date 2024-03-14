@@ -1,1 +1,1 @@
-# VIM_Motions_VSCode
+Personalized VSCode VIM Keybinds
